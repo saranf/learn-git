@@ -1,0 +1,3 @@
+COMPONENT = LightSensorC
+SENSORBOARD = hy2420
+include $(MAKERULES)
